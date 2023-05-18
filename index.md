@@ -2,5 +2,5 @@
 title: Marks Coding Blog
 ---
 
-This blog contains my coding progress
+Welcome to my coding blog. 
 
