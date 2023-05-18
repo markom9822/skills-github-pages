@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Marks Coding Blog
 ---
 
 This blog contains my coding progress
